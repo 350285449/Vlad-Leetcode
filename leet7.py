@@ -3,7 +3,7 @@ class Solution:
         INT_MIN, INT_MAX = -2 ** 31, 2 ** 31 - 1
 
 
-        result = 0
+        result =     0
         is_negative = x < 0
         x = abs(x)
 
